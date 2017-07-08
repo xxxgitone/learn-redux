@@ -7,9 +7,3 @@
 	cd learn-redux
 	npm install
 	npm start
-	
-#### 视屏地址(需要翻墙)
-[learn redux][1]
-
-
-  [1]: https://github.com/xxxgitone/learn-redux
